@@ -1,0 +1,81 @@
+[
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "We've been travelling around trying to ______ ______ what telecoms infrastructure is available.",
+        "respuesta": "figure out",
+        "incorrecta1": "dug up",
+        "incorrecta2": "found out",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "What we have ______ ______ is that West Africa is connected to Europe.",
+        "respuesta": "found out",
+        "incorrecta1": "figure out",
+        "incorrecta2": "dug up",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Some of the international data network providers are starting to ______ ______ expancing their networks.",
+        "respuesta": "look at",
+        "incorrecta1": "figure out",
+        "incorrecta2": "found out",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "To its credit, the PPT is ______ ______ a national fibre backbone.",
+        "respuesta": "rolling out",
+        "incorrecta1": "look at",
+        "incorrecta2": "found out",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "They are ______ _______ the old electro-mechanical exchanges.",
+        "respuesta": "phasing ... out",
+        "incorrecta1": "look at",
+        "incorrecta2": "rolling out",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Digital switching equipment is being ______ ______ the new exchanges.",
+        "respuesta": "put in",
+        "incorrecta1": "phasing ... out",
+        "incorrecta2": "rolling out",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "So there's a lot ______ ______ at a national level.",
+        "respuesta": "going on",
+        "incorrecta1": "phasing ... out",
+        "incorrecta2": "put in",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "The problem with the copper pairs in the ground is that they get ______ ______.",
+        "respuesta": "dug up",
+        "incorrecta1": "going on",
+        "incorrecta2": "put in",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+]
