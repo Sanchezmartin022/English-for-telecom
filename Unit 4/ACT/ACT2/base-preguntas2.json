@@ -1,0 +1,88 @@
+[
+    {
+        "categoria": "Match the words",
+        "pregunta": "put in",
+        "respuesta": "install",
+        "incorrecta1": "finishing with",
+        "incorrecta2": "taken out of the ground",
+        "incorrecta3": "implementing",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the words",
+        "pregunta": "phasing ... out",
+        "respuesta": "finishing with",
+        "incorrecta1": "install",
+        "incorrecta2": "taken out of the ground",
+        "incorrecta3": "implementing",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the words",
+        "pregunta": "dug up",
+        "respuesta": "taken out of the ground",
+        "incorrecta1": "install",
+        "incorrecta2": "implementing",
+        "incorrecta3": "consider, think about",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the words",
+        "pregunta": "rolling out",
+        "respuesta": "implementing",
+        "incorrecta1": "install",
+        "incorrecta2": "consider, think about",
+        "incorrecta3": "happening",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the words",
+        "pregunta": "look at",
+        "respuesta": "consider, think about",
+        "incorrecta1": "install",
+        "incorrecta2": "happening",
+        "incorrecta3": "get information about",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the words",
+        "pregunta": "going on",
+        "respuesta": "happening",
+        "incorrecta1": "install",
+        "incorrecta2": "get information about",
+        "incorrecta3": "discovered",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the words",
+        "pregunta": "figure out",
+        "respuesta": "get information about",
+        "incorrecta1": "happening",
+        "incorrecta2": "discovered",
+        "incorrecta3": "install",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the words",
+        "pregunta": "found out",
+        "respuesta": "discovered",
+        "incorrecta1": "happening",
+        "incorrecta2": "taken out of the ground",
+        "incorrecta3": "finishing with",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+  
+]

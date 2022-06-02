@@ -1,0 +1,55 @@
+[
+    {
+        "categoria": "n",
+        "pregunta": "Elizabeth is expecting some delays and missed deadlines",
+        "respuesta": "FALSE",
+        "incorrecta1": "TRUE",
+        "imagen": "",
+        "objectFit": "cover"
+    }, 
+
+    {
+        "categoria": "Say if the following statements are TRUE or FALSE",
+        "pregunta": "Elizabeth explains the workstreams involved in preparing the data templates",
+        "respuesta": "FALSE",
+        "incorrecta1": "TRUE",
+        "imagen": "",
+        "objectFit": "cover"
+    }, 
+
+    {
+        "categoria": "Say if the following statements are TRUE or FALSE",
+        "pregunta": "The four departments will all follow a similar procedure for the ERP rollout",
+        "respuesta": "TRUE",
+        "incorrecta1": "FALSE",
+        "imagen": "",
+        "objectFit": "cover"
+    }, 
+
+    {
+        "categoria": "Say if the following statements are TRUE or FALSE",
+        "pregunta": "Mustafa is unsure when the data migration will begin",
+        "respuesta": "FALSE",
+        "incorrecta1": "TRUE",
+        "imagen": "",
+        "objectFit": "cover"
+    }, 
+
+    {
+        "categoria": "Say if the following statements are TRUE or FALSE",
+        "pregunta": "HR cannot employ anyone new after May 3rd",
+        "respuesta": "FALSE",
+        "incorrecta1": "TRUE",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Say if the following statements are TRUE or FALSE",
+        "pregunta": "Manufacturing will be very busy during the testing period",
+        "respuesta": "TRUE",
+        "incorrecta1": "FALSE",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+]
