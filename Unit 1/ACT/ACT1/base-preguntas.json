@@ -1,0 +1,60 @@
+[
+    {
+        "categoria": "Match the words",
+        "pregunta": "ACCES",
+        "respuesta": "an application, a network, an account",
+        "incorrecta1": "chip, wafer, valley",
+        "incorrecta2": "online, ofline, on holiday",
+        "incorrecta3": "phone, telephony, broadband",
+        "incorrecta4": "a file, an image, a demo version",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the words",
+        "pregunta": "DOWLOAD",
+        "respuesta": "a file, an image, a demo version",
+        "incorrecta1": "chip, wafer, valley",
+        "incorrecta2": "online, ofline, on holiday",
+        "incorrecta3": "phone, telephony, broadband",
+        "incorrecta4": "an application, a network, an account",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the words",
+        "pregunta": "GO",
+        "respuesta": "online, ofline, on holiday",
+        "incorrecta1": "chip, wafer, valley",
+        "incorrecta2": "a file, an image, a demo version",
+        "incorrecta3": "phone, telephony, broadband",
+        "incorrecta4": "an application, a network, an account",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the words",
+        "pregunta": "MOBILE",
+        "respuesta": "phone, telephony, broadband",
+        "incorrecta1": "chip, wafer, valley",
+        "incorrecta2": "online, ofline, on holiday",
+        "incorrecta3": "a file, an image, a demo version",
+        "incorrecta4": "an application, a network, an account",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the words",
+        "pregunta": "SILICON",
+        "respuesta": "chip, wafer, valley",
+        "incorrecta1": "file, an image, a demo version",
+        "incorrecta2": "online, ofline, on holiday",
+        "incorrecta3": "phone, telephony, broadband",
+        "incorrecta4": "an application, a network, an account",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+  
+]

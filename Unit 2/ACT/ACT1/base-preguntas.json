@@ -1,0 +1,72 @@
+[
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "it's not very convenient",
+        "respuesta": "only being able to acces all my information when I'm in the office",
+        "incorrecta1": "charging my phone in a customer's office",
+        "incorrecta2": "be able to do all these things on the move",
+        "incorrecta3": "the basic funcionality of my current phone",
+        "incorrecta4": "be able to read the attachments",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "it's a bit embarrasing",
+        "respuesta": "charging my phone in a customer's office",
+        "incorrecta1": "only being able to acces all my information when I'm in the office",
+        "incorrecta2": "be able to do all these things on the move",
+        "incorrecta3": "be able to read the attachments",
+        "incorrecta4": "the basic funcionality of my current phone",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "I want",
+        "respuesta": "the basic funcionality of my current phone",
+        "incorrecta1": "charging my phone in a customer's office",
+        "incorrecta2": "only being able to acces all my information when I'm in the office",
+        "incorrecta3": "be able to do all these things on the move",
+        "incorrecta4": "emails all the timet",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "I send and receive",
+        "respuesta": "emails all the time",
+        "incorrecta1": "only being able to acces all my information when I'm in the office",
+        "incorrecta2": "charging my phone in a customer's office",
+        "incorrecta3": "be able to do all these things on the move",
+        "incorrecta4": "be able to read the attachments",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "I need to",
+        "respuesta": "be able to read the attachments",
+        "incorrecta1": "charging my phone in a customer's office",
+        "incorrecta2": "emails all the time",
+        "incorrecta3": "the basic funcionality of my current phone",
+        "incorrecta4": "be able to do all these things on the move",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "I'd like to",
+        "respuesta": "be able to do all these things on the move",
+        "incorrecta1": "charging my phone in a customer's office",
+        "incorrecta2": "be able to read the attachments",
+        "incorrecta3": "emails all the time",
+        "incorrecta4": "the basic funcionality of my current phone",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+  
+]

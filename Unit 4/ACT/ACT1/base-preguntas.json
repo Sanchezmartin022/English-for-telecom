@@ -1,0 +1,14 @@
+[
+    {
+        "categoria": "Complete this email with the words in the box.",
+        "pregunta": "Hi, <br> I've had a talk with Jerry about the telecoms ______ that is available out there and it's still pretty basic. On the plus side, there's a high ______ fibre cable down the west coast and the country is connected via Intelsat 1, so there are ______ connections, so basic emails and phone calls will never be a problem even if one of them goes down. <br> However, at the moment there are no international ______ ______ providers out there so ______ ______ services are not available. They will be able to get a fixed line, but the ______ ______ is just copper and ______ ______ are very long because ______ is well below average. <br> Best, Dave.",
+        "respuesta": "infrastructure, capacity, redundant, global ethernet, data network, local loop, lead times, teledensity",
+        "incorrecta1": "capacity, infrastructure, redundant, global ethernet, data network, local loop, lead times, teledensity",
+        "incorrecta2": "infrastructure, capacity, redundant, data network, global ethernet, local loop, lead times, teledensity",
+        "incorrecta3": "teledensity, capacity, redundant, global ethernet, data network, local loop, lead times, infrastructure",
+        "incorrecta4": "infrastructure, capacity, redundant, lead times, data network, local loop, global ethernet, teledensity",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+  
+]

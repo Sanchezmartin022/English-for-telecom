@@ -1,0 +1,13 @@
+[
+    {
+        "categoria": "Complete Jane's email with the expressions below",
+        "pregunta": "Cleverbox uses a single operating system across its departments, but many of our departments have ______ their aplications and process, which means that there are ______ ______ and integration problems in the company. On top of this some departments have been slow to ______, which means that different departments have different software ______. Thins are getting very expensive because all of the ______ ______ we have to buy. Maintaining all of this and providing ______ services for our customers also costs us a lot of money. <br> To make things even more complicated, our latest, our latest acquisition, Smart Route, uses a completely different ______ ______, which means that none of their ______ will work with Cleverbox.",
+        "respuesta": "customized, data format, upgrade, releases, software licences, helpdeks, operating system, applications",
+        "incorrecta1": "customized, software licences, upgrade, releases, data format, helpdeks, operating system, applications",
+        "incorrecta2": "customized, operating system, upgrade, releases, software licences, helpdeks, data format, applications",
+        "incorrecta3": "upgrade, data format, customized, releases, software licences, helpdeks, operating system, applications",
+        "incorrecta4": "customized, operating system, releases, upgrade, software licences, helpdeks, data format, applications",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+]

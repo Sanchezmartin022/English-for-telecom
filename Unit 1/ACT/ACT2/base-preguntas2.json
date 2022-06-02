@@ -1,0 +1,84 @@
+[
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Digital radio sets ______ (become) less and less popular",
+        "respuesta": "are becoming",
+        "incorrecta1": "are become",
+        "incorrecta2": "is become",
+        "incorrecta3": "is becoming",
+        "incorrecta4": "are becomed",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "More and more people ______ (listen) to radio overthe internet",
+        "respuesta": "are listening",
+        "incorrecta1": "is listening",
+        "incorrecta2": "are listened",
+        "incorrecta3": "is listen",
+        "incorrecta4": "is listened",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Laptops are getting ______ (cheap)",
+        "respuesta": "cheaper and cheaper",
+        "incorrecta1": "cheaping",
+        "incorrecta2": "cheaper",
+        "incorrecta3": "cheapering",
+        "incorrecta4": "cheaps",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Handheld devices are becoming ______ (sophisticated)",
+        "respuesta": "more and more sophisticated",
+        "incorrecta1": "sophisticating",
+        "incorrecta2": "sophisticated",
+        "incorrecta3": "inetresting",
+        "incorrecta4": "interested",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Battery life ______ (get) ______ (long)",
+        "respuesta": "is gettinglonger and long",
+        "incorrecta1": "are getting longer and long",
+        "incorrecta2": "are get longer and long",
+        "incorrecta3": "are getting long and longer",
+        "incorrecta4": "is getting longer",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "In some areas, Volp ______ (take over) from PSTN",
+        "respuesta": "is taking over",
+        "incorrecta1": "are take over",
+        "incorrecta2": "are taking over",
+        "incorrecta3": "is take over",
+        "incorrecta4": "take over",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Mobile broadband speeds ______ (increase) dramatically",
+        "respuesta": "are increasing",
+        "incorrecta1": "is increaing",
+        "incorrecta2": "are increase",
+        "incorrecta3": "isnt increasing",
+        "incorrecta4": "arent increasing",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+  
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "categoria": "Five people are talkin about their work. Listen to the extracts. Write down any of the new words from exercise 9 that include the words in capitals.",
+        "pregunta": "(-phone)",
+        "respuesta": "cellphone",
+        "incorrecta1": "computer",
+        "incorrecta2": "laptop",
+        "incorrecta3": "microwave",
+        "incorrecta4": "tablet",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(up-)",
+        "respuesta": "upgrade",
+        "incorrecta1": "grade",
+        "incorrecta2": "up",
+        "incorrecta3": "upgrate",
+        "incorrecta4": "upgrated",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(-cast)",
+        "respuesta": "broadcasters",
+        "incorrecta1": "broad",
+        "incorrecta2": "broatcaster",
+        "incorrecta3": "cellphone",
+        "incorrecta4": "computer",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(down-)",
+        "respuesta": "ownload",
+        "incorrecta1": "upload",
+        "incorrecta2": "townload",
+        "incorrecta3": "downloaded",
+        "incorrecta4": "loaded",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(-ware)",
+        "respuesta": "software",
+        "incorrecta1": "hardware",
+        "incorrecta2": "sofware",
+        "incorrecta3": "officeware",
+        "incorrecta4": "windoware",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(tele-)",
+        "respuesta": "telecoms",
+        "incorrecta1": "televisa",
+        "incorrecta2": "nextel",
+        "incorrecta3": "telemit",
+        "incorrecta4": "telewindows",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(up-)",
+        "respuesta": "update",
+        "incorrecta1": "date",
+        "incorrecta2": "ubdate",
+        "incorrecta3": "upoload",
+        "incorrecta4": "download",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(-byte)",
+        "respuesta": "gigabyte",
+        "incorrecta1": "terabite",
+        "incorrecta2": "tigabyte",
+        "incorrecta3": "bites",
+        "incorrecta4": "migabite",
+        "imagen": "",
+        "objectFit": "cover"
+    }, 
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(tele-)",
+        "respuesta": "telecoms/teleconferencing",
+        "incorrecta1": "telecomes",
+        "incorrecta2": "teleconferencing",
+        "incorrecta3": "teleconfered",
+        "incorrecta4": "telewifi",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "(-band)",
+        "respuesta": "broadband",
+        "incorrecta1": "band",
+        "incorrecta2": "wifiband",
+        "incorrecta3": "routerband",
+        "incorrecta4": "htpband",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+  
+]

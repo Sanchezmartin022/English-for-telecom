@@ -1,0 +1,30 @@
+[
+    {
+        "categoria": "Match the words",
+        "pregunta": "Mapping",
+        "respuesta": "Creating an image or diagram of an area",
+        "incorrecta1": "Following the progress of a moving vehicle or person",
+        "incorrecta2": "Finding the best route from one point to another",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the words",
+        "pregunta": "Tracking",
+        "respuesta": "Following the progress of a moving vehicle or person",
+        "incorrecta1": "Finding the best route from one point to another",
+        "incorrecta2": "Creating an image or diagram of an area",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Match the words",
+        "pregunta": "Navigation",
+        "respuesta": "Finding the best route from one point to another",
+        "incorrecta1": "Creating an image or diagram of an area",
+        "incorrecta2": "Following the progress of a moving vehicle or person",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+  
+]

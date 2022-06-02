@@ -1,0 +1,124 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>Activities</title>
+  <script src="/Unit 2/ACT/ACT2/sweetalert2.all.min.js"></script>
+</head>
+<h1> EXERCISE 6 GRAMMAR "Pag.16"   </h1> 
+<header class="menu">
+  <div class="menu">
+   <a href="/index.html">HOME</a>
+   <a href="/Actividades/index.html">BOOK ACTIVITIES</a>
+   <a href="/Unit 2/ACT/act2.html">RETURN TO UNIT 2</a>
+   </div>
+ </header>
+<body>
+  <style>
+    * {
+      transition: all 0.3s;
+    }
+
+    body {
+      background: rgb(196, 228, 109);
+      padding: 0;
+      margin: 0;
+      text-align: center;
+      font-family: calibri;
+      font-size: 120%;
+    }
+    .menu a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px 15px;
+    background: #193624b7;
+    border-radius: 8px;
+    color: #fff;
+    text-align: right;
+  } 
+    .contenedor {
+      width: 98vw;
+      height: 97vh;
+      display: inline-flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .encabezado {
+      position: relative;
+      background: white;
+      min-width: 300px;
+      width: 70%;
+      max-width: 600px;
+      padding: 10px;
+    }
+
+    .categoria {
+      opacity: 0.3;
+      text-align: left;
+    }
+
+    .pregunta {
+      padding: 10px;
+    }
+
+    .imagen {
+      object-fit: cover;
+      height: 0px;
+      width: 0px;
+    }
+
+    .btn {
+      background: white;
+      width: 60%;
+      max-width: 550px;
+      padding: 10px;
+      margin: 5px;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+    }
+    
+    .numero{
+      position: absolute;
+      opacity:0.3;
+      top: 10px;
+      right: 10px;
+    }
+    
+    .puntaje{
+      padding:10px;
+      color:white;
+    }
+       h1{
+    font-weight: 400;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 40px;
+    background-color:rgba(231, 234, 243, 0.897);
+    color: rgba(13, 14, 13, 0.555);
+  }
+
+  </style>
+
+  <div class="contenedor">
+    <div class="puntaje" id="puntaje"></div>
+    <div class="encabezado">
+      <div class="categoria" id="categoria">
+      </div>
+      <div class="numero" id="numero"></div>
+      <div class="pregunta" id="pregunta">
+      </div>
+      <img src="#" class="imagen" id="imagen">
+    </div>
+    <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+    <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+    <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+    <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+    <div class="btn" id="btn5" onclick="oprimir_btn(4)"></div>
+    
+    <script src="/Unit 2/ACT/ACT2/index2.js"></script>
+  </div>
+
+</body></html>

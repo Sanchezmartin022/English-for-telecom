@@ -1,0 +1,13 @@
+[
+    {
+        "categoria": "Complete the sentences",
+        "pregunta": "Dear Bob. <br> <br> I'm sorry to hear about the business issues you are experiencing due to our IT infrastructure. There has been a lot of activity in the background and we are on the verge of a major IT __________ programme that will adress you concerns. Please read the attachment to this email which details what the new system will do. Basically the new system will give you complete supply __________ visibility, guaranteed ________ replenishment of stock, electronic tagging, electronic point-of-sale _________, and ______ fixed-to-mobile phones. <br> As well as the systems outlined in the attachment we will all receive better management of information from the new systems. Store Managers will receive a number of automatic reports at 0900 every day, detailing the previous day's trading, ______ levels ______, delivery _______, and buying ________. <br> I hope this helps address some of your concerns. Please feel free to contact me to discuss the rollout schedule for your particular store. <br> <br> Regards, Malcolm.",
+        "respuesta": "renewal, chain, continuos, terminals, converged, stock, schedules, trends",
+        "incorrecta1": "continuos, renewal, chain, terminals, converged, stock, schedules, trends",
+        "incorrecta2": "trends, chain, terminals, converged, stock, schedules, continuos, renewal",
+        "incorrecta3": "chain, continuos, renewal, terminals, converged, stock, schedules, trends",
+        "incorrecta4": "schedules, terminals, chain, continuos, renewal, converged, stock, trends",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+]

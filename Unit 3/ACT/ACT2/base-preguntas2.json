@@ -1,0 +1,121 @@
+[
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Bespoke",
+        "respuesta": "specially produced for someone",
+        "incorrecta1": "errors in a program",
+        "incorrecta2": "final move to a new system",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Bugs",
+        "respuesta": "errors in a program",
+        "incorrecta1": "specially produced for someone",
+        "incorrecta2": "final move to a new system",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Cutover",
+        "respuesta": "final move to a new system",
+        "incorrecta1": "in separate, independent sections",
+        "incorrecta2": "standard and commercially",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Modular",
+        "respuesta": "in separate, independent sections",
+        "incorrecta1": "final move to a new system",
+        "incorrecta2": "standard and commercially",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Off the shelf",
+        "respuesta": "standard and commercially",
+        "incorrecta1": "final move to a new system",
+        "incorrecta2": "in separate, independent sections",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Output",
+        "respuesta": "work finished or completed",
+        "incorrecta1": "strong, reliabe",
+        "incorrecta2": "gradual implementation",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Robust",
+        "respuesta": "strong, reliabe",
+        "incorrecta1": "work finished or completed",
+        "incorrecta2": "gradual implementation",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Rollout",
+        "respuesta": "gradual implementation",
+        "incorrecta1": "strong, reliabe",
+        "incorrecta2": "work finished or completed",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Sign off",
+        "respuesta": "finish and leave",
+        "incorrecta1": "detailed description of what is required",
+        "incorrecta2": "small and medium-sized enterprises",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "SME",
+        "respuesta": "small and medium-sized enterprises",
+        "incorrecta1": "finish and leave",
+        "incorrecta2": "detailed description of what is required",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Specification",
+        "respuesta": "detailed description of what is required",
+        "incorrecta1": "finish and leave",
+        "incorrecta2": "small and medium-sized enterprises",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Match the sentences",
+        "pregunta": "Steady state",
+        "respuesta": "working properly",
+        "incorrecta1": "small and medium-sized enterprises",
+        "incorrecta2": "detailed description of what is required",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+]
